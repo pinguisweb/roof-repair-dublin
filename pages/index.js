@@ -18,7 +18,8 @@ export default function Home() {
     We believe that the client knows best, and we will work hand in hand with you to ensure that your roof is constructed or repaired to your specifications, <p>  
     we also offer advice to make it even better.
         </p>
-    <p>  Roofers providing <a href="https://bit.ly/2R2LQmj">roofing services</a> if you need specialist quality roofing services, get a highly experienced team responsible></p>
+    <p>  Roofers providing <a href="https://bit.ly/2R2LQmj">roofing services</a> if you need specialist quality roofing services, 
+    get a highly experienced team></p>
       </main>
 
       <Footer />
